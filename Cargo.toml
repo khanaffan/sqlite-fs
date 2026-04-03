@@ -4,6 +4,11 @@ version = "0.1.0"
 edition = "2024"
 description = "A cross-platform SQLite-based file system for backup & archive"
 license = "MIT"
+repository = "https://github.com/khanaffan/sqlite-fs"
+homepage = "https://github.com/khanaffan/sqlite-fs"
+readme = "README.md"
+keywords = ["sqlite", "filesystem", "backup", "archive"]
+categories = ["filesystem", "database"]
 
 [dependencies]
 rusqlite = { version = "0.35", features = ["bundled"] }
