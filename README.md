@@ -1,4 +1,5 @@
 # SQLite-FS
+<img src="docs/sqlitefs.png" width="400" alt="Repository overview">
 
 [![Crates.io](https://img.shields.io/crates/v/sqlitefs.svg)](https://crates.io/crates/sqlitefs)
 [![CI](https://github.com/khanaffan/sqlite-fs/actions/workflows/ci.yml/badge.svg)](https://github.com/khanaffan/sqlite-fs/actions/workflows/ci.yml)
